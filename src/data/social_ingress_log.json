@@ -1,0 +1,34 @@
+[
+  {
+    "platform": "X",
+    "niche": "AI_Automation",
+    "target": "all-things-ai-vol-6",
+    "count": 250,
+    "timestamp": "2026-04-25T05:33:20Z",
+    "signature": "SIG_SOVRA_SIGNAL_X_001"
+  },
+  {
+    "platform": "Meta",
+    "niche": "Entrepreneurship",
+    "target": "all-things-ai-vol-6",
+    "count": 250,
+    "timestamp": "2026-04-25T05:33:20Z",
+    "signature": "SIG_SOVRA_SIGNAL_META_002"
+  },
+  {
+    "platform": "TikTok",
+    "niche": "Digital_Products",
+    "target": "all-things-ai-vol-6",
+    "count": 250,
+    "timestamp": "2026-04-25T05:33:20Z",
+    "signature": "SIG_SOVRA_SIGNAL_TT_003"
+  },
+  {
+    "platform": "LinkedIn",
+    "niche": "B2B_SaaS",
+    "target": "all-things-ai-vol-6",
+    "count": 250,
+    "timestamp": "2026-04-25T05:33:20Z",
+    "signature": "SIG_SOVRA_SIGNAL_LI_004"
+  }
+]

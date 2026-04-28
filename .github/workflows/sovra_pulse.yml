@@ -1,0 +1,39 @@
+name: SOVRA APEX PULSE (Institutional CI/CD)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    # --- THE TONY INFRASTRUCTURE (Node.js) ---
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install Dependencies
+      run: npm install --no-audit --no-fund
+
+    # --- THE USER MANDATE (.NET Core) ---
+    - name: Setup .NET Core SDK
+      uses: actions/setup-dotnet@v5.2.0
+      with:
+        # Optional SDK version(s) to use.
+        dotnet-version: '8.0.x'
+        # Optional quality of the build.
+        dotnet-quality: 'ga'
+
+    - name: Run Institutional Pulse
+      run: npm run tony -- --once
+
+    - name: Build Next.js Dashboard
+      run: npm run build

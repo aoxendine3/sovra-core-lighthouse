@@ -1,0 +1,26 @@
+[
+  {
+    "segment": "Institutional Wealth Architects",
+    "description": "High-net-worth individuals and family offices looking for sovereign, non-custodial capital management solutions.",
+    "priority": "CRITICAL",
+    "interest_nodes": ["Aspirational Investing", "Private Placement SPEs", "Off-Chain Liquidity"]
+  },
+  {
+    "segment": "Sovereign AI Infrastructure Developers",
+    "description": "Enterprise-level developers seeking local-only, high-performance AI cores for sensitive IP management.",
+    "priority": "HIGH",
+    "interest_nodes": ["Llama 4 Optimization", "Zero-Simulation Protocols", "Institutional IAO"]
+  },
+  {
+    "segment": "Digital Asset Forensics / OSINT Specialists",
+    "description": "Blockchain investigators and recovery specialists tracking stale or lost digital liquidity.",
+    "priority": "MEDIUM",
+    "interest_nodes": ["Ghost Footprint Tracking", "Blockchain Forensics", "Stale Identity Matches"]
+  },
+  {
+    "segment": "High-Theta Affiliate Arbitrageurs",
+    "description": "Advanced marketers leveraging AI-generated creatives and automated funnel pulses for rapid revenue acquisition.",
+    "priority": "HIGH",
+    "interest_nodes": ["CJ Massive Scale", "Ad Creative Generation", "Revenue Blitz Protocols"]
+  }
+]

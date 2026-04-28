@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "timestamp": "2026-04-27T12:38:34.275Z",
+    "totalUsd": 901,
+    "ledgerHash": "3d508207057a915a1f8fef6217256143ba98825ebd1dfc647f803f10b6319152",
+    "source": "AntiGravity Enterprise",
+    "version": "1.0",
+    "notes": "Signed proof of funds for loan application."
+  },
+  "signature": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOiIyMDI2LTA0LTI3VDEyOjM4OjM0LjI3NVoiLCJ0b3RhbFVzZCI6OTAxLCJsZWRnZXJIYXNoIjoiM2Q1MDgyMDcwNTdhOTE1YTFmOGZlZjYyMTcyNTYxNDNiYTk4ODI1ZWJkMWRmYzY0N2Y4MDNmMTBiNjMxOTE1MiIsInNvdXJjZSI6IkFudGlHcmF2aXR5IEVudGVycHJpc2UiLCJ2ZXJzaW9uIjoiMS4wIiwibm90ZXMiOiJTaWduZWQgcHJvb2Ygb2YgZnVuZHMgZm9yIGxvYW4gYXBwbGljYXRpb24uIn0.Gp2tCh_C8NMbqd-Otp_zMfhy0JZv4aCpu8K1qyN8jA6Toyd1w_nbgjUFurX6ITGbqjtsfp99frlYoiyPbTwIYVJZOLo0_evgLCWnH9uhO3aNvmiDm9kyUWgP6h5Dgfz95HHs8Cr0ETKc-ldprZQgAXTsyZ12hXsIySm_cC_kE9DhUsFLV6M8NAJgTo11KwvZe903zME-SAkXzqZ9qQzEq6d5tIGbx2q4u4rTM5RVNhZH3EVqdYtCK7jxLWZvQbs-gWaM_vDUnkf-amtVIJEo-KuO-hAQGFljWAd_kaLctgQG-kSi7IukJuvkUuokU90uok8v8I_xbIjC6YfGY0Vb2g"
+}

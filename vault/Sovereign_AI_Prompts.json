@@ -1,0 +1,27 @@
+{
+  "institutional_manifest": "v1.0_SOVRA",
+  "category": "Cognitive Arbitrage",
+  "prompts": [
+    {
+      "id": "CA-001",
+      "title": "Exascale Market Synthesis",
+      "prompt": "Act as a Chief Strategy Officer for a Sovereign AI Enterprise. Analyze the following market data tranches: [DATA]. Identify 'Value Debt' where incumbents are overcharging for automated tasks. Outline a 24-hour blitz strategy to capture 0.1% of this liquidity using a zero-trust agent swarm.",
+      "quality_score": 10.0,
+      "use_case": "Market Ingress"
+    },
+    {
+      "id": "CA-002",
+      "title": "Institutional Content Engine",
+      "prompt": "Generate a high-fidelity marketing manifest for a premium digital asset. Use obsidian-glassmorphic tone, emphasis on 'Physical Ingress' and 'Absolute Finality'. Target audience: High-net-worth creators looking for operational autonomy.",
+      "quality_score": 9.8,
+      "use_case": "Conversion Optimization"
+    },
+    {
+      "id": "CA-003",
+      "title": "Sentinel Code Audit",
+      "prompt": "Review the following TypeScript module for 'technical friction'. Identify any synchronous bottlenecks, missing handshake validations, or non-verifiable data paths. Refactor to meet the Sovereign-SOVRA_APEX-Deep-Lock standard.",
+      "quality_score": 10.0,
+      "use_case": "Security Integrity"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["sfo1", "iad1", "cdg1", "hnd1"],
+  "env": {
+    "NODE_ENV": "production",
+    "PROTOCOL_VERSION": "v2026.11_APEX",
+    "ENTERPRISE_SCALE": "120.4M"
+  },
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}

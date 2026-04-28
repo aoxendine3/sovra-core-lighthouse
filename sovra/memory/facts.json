@@ -1,0 +1,42 @@
+{
+  "mission_asset_1": {
+    "value": "Please provide the NOTION_INTEGRATION_TOKEN for archival.",
+    "priority": "HIGH"
+  },
+  "mission_asset_2": {
+    "value": "I could not formulate a verifiably safe plan for that request.",
+    "priority": "HIGH"
+  },
+  "mission_asset_3": {
+    "value": "Archival Fault: API token is invalid.",
+    "priority": "HIGH"
+  },
+  "mission_asset_4": {
+    "value": "Gumroad Fault: 401 Client Error: Unauthorized for url: https://api.gumroad.com/v2/sales",
+    "priority": "HIGH"
+  },
+  "mission_asset_5": {
+    "value": "Core Fault: 'str' object has no attribute 'get'",
+    "priority": "HIGH"
+  },
+  "mission_asset_6": {
+    "value": "Gumroad Fault: 401 Client Error: Unauthorized for url: https://api.gumroad.com/v2/sales",
+    "priority": "HIGH"
+  },
+  "mission_asset_7": {
+    "value": "CJ Fault: 406 Client Error: Not Acceptable for url: https://commission.api.cj.com/v3/commissions",
+    "priority": "HIGH"
+  },
+  "mission_asset_8": {
+    "value": "CJ Fault: 406 Client Error: Not Acceptable for url: https://commission.api.cj.com/v3/commissions",
+    "priority": "HIGH"
+  },
+  "mission_asset_9": {
+    "value": "Gumroad and CJ Affiliate tools failed. Please provide necessary details for manual data extraction.",
+    "priority": "HIGH"
+  },
+  "mission_asset_10": {
+    "value": "CJ Fault: 406 Client Error: Not Acceptable for url: https://commission.api.cj.com/v3/commissions",
+    "priority": "HIGH"
+  }
+}

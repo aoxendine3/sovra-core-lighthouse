@@ -1,0 +1,34 @@
+name: XORA Research Pulse
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  research:
+    runs-on: macos-latest # Aligning with user OS preference
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install Dependencies
+        run: npm install
+        
+      - name: Execute GitHub Alpha Scour
+        run: npm run scour
+        
+      - name: Infrastructure Hardening
+        run: npm run harden
+        
+      - name: Commit & Push Telemetry
+        run: |
+          git config --local user.email "tony@SOVRA.sovereign"
+          git config --local user.name "Tony (Sovereign OS)"
+          git add SOVRA_INSTITUTIONAL_REPORT.md .gemini/SOVRA Sovereign/SOVRA_APEX_sovereign.json
+          git commit -m "🏛️ [TONY] Daily Research Pulse & Hardening Complete" || echo "No changes to commit"
+          git push

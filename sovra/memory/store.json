@@ -1,0 +1,57 @@
+import { TonyDB } from '../db/TonyDB.ts';
+
+/**
+ * SOVEREIGN_MEMORY (v1.0_PROT)
+ * ─────────────────────────────────────────────────────────────
+ * Mandate: Absolute cross-session intellectual continuity.
+ * 
+ * Purpose: Stores and retrieves 'Pearls of Wisdom' (POWs) to ensure 
+ * the enterprise never forgets a hard-won lesson or strategic mandate.
+ */
+export class SovereignMemory {
+    /**
+     * Store: Anchors a memory into the Ghost-Ledger.
+     */
+    public static async memorize(key: string, value: any, tags: string[] = []) {
+        const db = await TonyDB.getInstance();
+        const memory = {
+            key,
+            value,
+            tags,
+            timestamp: new Date().toISOString()
+        };
+        
+        await db.run('INSERT INTO SOVRA_APEX_agent_logs (agent_name, activity, status, metadata, signature_hash) VALUES (?, ?, ?, ?, ?)', 
+            ['MEMORY_CORE', 'MEMORY_ANCHORED', 'PERSISTED', JSON.stringify(memory), 'SIG_MEMORY']
+        );
+        
+        console.log(`[Memory] Anchored: ${key}`);
+    }
+
+    /**
+     * Recall: Retrieves the latest state of a specific memory key.
+     */
+    public static async recall(key: string): Promise<any> {
+        const db = await TonyDB.getInstance();
+        const logs = await db.all('SELECT * FROM SOVRA_APEX_agent_logs WHERE agent_name = ? AND activity = ?', ['MEMORY_CORE', 'MEMORY_ANCHORED']);
+        
+        const matching = logs
+            .map((l: any) => JSON.parse(l.metadata))
+            .filter((m: any) => m.key === key)
+            .sort((a: any, b: any) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime());
+
+        return matching.length > 0 ? matching[0].value : null;
+    }
+
+    /**
+     * Recall By Tag: Searches for related memories.
+     */
+    public static async recallByTag(tag: string): Promise<any[]> {
+        const db = await TonyDB.getInstance();
+        const logs = await db.all('SELECT * FROM SOVRA_APEX_agent_logs WHERE agent_name = ? AND activity = ?', ['MEMORY_CORE', 'MEMORY_ANCHORED']);
+        
+        return logs
+            .map((l: any) => JSON.parse(l.metadata))
+            .filter((m: any) => m.tags.includes(tag));
+    }
+}

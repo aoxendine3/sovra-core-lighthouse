@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-04-13T00:53:51.837Z",
+  "nodes": [
+    "/crypto",
+    "/terminal",
+    "/affiliate/luxury-defi-security-2026"
+  ],
+  "overallStatus": "DEGRADED",
+  "remediations": 2
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://sovra.ai/sitemap.xml
+
+# SOVRA Sovereign Intelligence (v14.4_Ω)
+# Data distillation in progress.

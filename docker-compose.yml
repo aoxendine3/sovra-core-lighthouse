@@ -1,0 +1,69 @@
+version: '3.9'
+
+services:
+  # The Core Intelligence Engine
+  sovereign-core:
+    image: node:20-slim
+    container_name: sovra-core
+    working_dir: /app
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=production
+      - AGENT_ROLE=CORE_INTELLIGENCE
+    command: npm run start
+    networks:
+      - sovereign-net
+    restart: always
+
+  # Growth & Revenue Blitz Agent
+  growth-agent:
+    build: 
+      context: .
+      dockerfile: ./sovra/core/agents/Agent.Dockerfile
+    container_name: sovra-growth
+    environment:
+      - AGENT_ROLE=GROWTH_BLITZ
+      - ISOLATION_LEVEL=CRITICAL
+    networks:
+      - sovereign-net
+    depends_on:
+      - sovereign-core
+
+  # Social & Sentiment Agent
+  social-agent:
+    build: 
+      context: .
+      dockerfile: ./sovra/core/agents/Agent.Dockerfile
+    container_name: sovra-social
+    environment:
+      - AGENT_ROLE=SOCIAL_SENTIMENT
+    networks:
+      - sovereign-net
+
+  # Legal & Compliance Sentinel
+  compliance-agent:
+    build: 
+      context: .
+      dockerfile: ./sovra/core/agents/Agent.Dockerfile
+    container_name: sovra-compliance
+    environment:
+      - AGENT_ROLE=COMPLIANCE_SENTINEL
+    networks:
+      - sovereign-net
+
+  # The Gumroad Director (External Assets)
+  gumroad-director:
+    build: 
+      context: .
+      dockerfile: ./sovra/core/agents/Agent.Dockerfile
+    container_name: sovra-gumroad
+    environment:
+      - AGENT_ROLE=GUMROAD_DIRECTOR
+    networks:
+      - sovereign-net
+
+networks:
+  sovereign-net:
+    driver: bridge
+    internal: true # Isolates agents from external internet unless explicitly allowed

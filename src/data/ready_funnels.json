@@ -1,0 +1,104 @@
+{
+  "freeProduct": {
+    "name": "AntiGravity Starter Guide",
+    "tagline": "Create a functional web application without extensive coding knowledge.",
+    "price": 0,
+    "description": "Welcome to the AntiGravity Starter Guide. This comprehensive PDF guide is designed for anyone looking to build their first autonomous web application using the AntiGravity stack. The guide provides step-by-step instructions and real-world examples, allowing you to quickly set up and start working with your project.\n\nWith a focus on practicality and ease of use, this starter guide covers essential topics such as setting up the development environment, choosing the right dependencies, and configuring the application's core functionality. By following along with our guide, you'll be able to build a fully functional web application in no time.\n\nOur goal is not to teach advanced concepts or frameworks but to provide a solid foundation for beginners. We believe that building a successful web application requires more than just technical skills – it also demands a clear understanding of the problem you're trying to solve and the goals you want to achieve.",
+    "bulletPoints": [
+      "- - A step-by-step guide covering everything from setting up your development environment to deploying your application",
+      "- - Real-world examples and case studies to illustrate key concepts and best practices",
+      "- - Detailed instructions on choosing the right dependencies and configuring the AntiGravity stack",
+      "- - Troubleshooting tips and common pitfalls to avoid",
+      "- - A comprehensive appendix with additional resources, including documentation and code snippets"
+    ],
+    "faqItems": [
+      {
+        "q": "Is this a physical product?",
+        "a": "No. Digital delivery. Instant access after purchase."
+      },
+      {
+        "q": "What format is the file?",
+        "a": "PDF — readable on any device."
+      },
+      {
+        "q": "Is there a refund policy?",
+        "a": "Gumroad's standard 30-day policy applies."
+      }
+    ],
+    "thumbnailPrompt": "SOVRA Enterprise premium product thumbnail for \"AntiGravity Starter Guide\". Clean, modern, dark mode, cyan accent, professional.",
+    "callToAction": "Get instant access to the AntiGravity Starter Guide and start building your first autonomous web application today. Download now and begin solving real-world problems!",
+    "tier": "free"
+  },
+  "proProduct": {
+    "name": "AntiGravity Pro Implementation Kit",
+    "tagline": "Master the full stack of AntiGravity Pro with our comprehensive implementation kit.",
+    "price": 49,
+    "description": "Are you new to building and deploying applications for AntiGravity Pro? Do you want to ensure a seamless experience for your users and maximize your return on investment? Our PRO Implementation Kit is designed to help. This bundle includes everything you need to set up, deploy, and run your AntiGravity Pro application from scratch. With our complete source code, step-by-step video series, and operational workflows, you'll be able to hit the ground running and achieve success faster.\n\nOur kit covers all aspects of implementation, from initial setup and configuration to ongoing maintenance and support. By working with our PRO Implementation Kit, you can:\n\n- Get instant access to our complete source code, ensuring you have a solid foundation for your application\n- Follow our step-by-step video series, expertly guided by seasoned professionals\n- Benefit from our operational workflows, streamlining day-to-day tasks and maximizing productivity\n- Stay up-to-date with the latest best practices and updates from the AntiGravity Pro community\n\nBy investing in our PRO Implementation Kit, you'll be able to take your skills to the next level, deliver exceptional results for your users, and drive real business growth.",
+    "bulletPoints": [
+      "- Complete source code for AntiGravity Pro implementation",
+      "- Step-by-step video series covering full stack setup and deployment",
+      "- Operational workflows for ongoing maintenance and support",
+      "- Access to our expert community for ongoing guidance and support",
+      "- Regular updates and best practices from the AntiGravity Pro team"
+    ],
+    "faqItems": [
+      {
+        "q": "Is this a physical product?",
+        "a": "No. Digital delivery. Instant access after purchase."
+      },
+      {
+        "q": "What format is the file?",
+        "a": "PDF — readable on any device."
+      },
+      {
+        "q": "Is there a refund policy?",
+        "a": "Gumroad's standard 30-day policy applies."
+      }
+    ],
+    "thumbnailPrompt": "SOVRA Enterprise premium product thumbnail for \"AntiGravity Pro Implementation Kit\". Clean, modern, dark mode, cyan accent, professional.",
+    "callToAction": "Purchase the PRO Implementation Kit today and take the first step towards mastering AntiGravity Pro and driving real business success for yourself or your clients.",
+    "tier": "pro"
+  },
+  "apexProduct": {
+    "name": "AntiGravity Enterprise License",
+    "tagline": "Deploy and manage your AntiGravity platform with full commercial support.",
+    "price": 199,
+    "description": "The APEX license grants you the full commercial rights to our AntiGravity platform, including the entire codebase. With this comprehensive package, you'll receive dedicated 1-on-1 deployment support to ensure a smooth setup and integration process. Additionally, we provide ongoing updates to keep your infrastructure secure and optimized for maximum performance.\n\nAs an APEX license holder, you'll have direct access to our development team for any questions or concerns related to the platform's operation, maintenance, or future enhancements. This ensures that your business can focus on delivering exceptional customer experiences while we handle the underlying technical aspects.\n\nOur goal is to empower entrepreneurs and businesses like yours with a cutting-edge technology solution that drives growth and success. With the APEX license, you'll be able to leverage our expertise to build, manage, and scale your AntiGravity platform with confidence.",
+    "bulletPoints": [
+      "- Full commercial rights to the entire codebase",
+      "- 1-on-1 deployment support for a seamless setup experience",
+      "- Ongoing updates to ensure platform security and performance optimization",
+      "- Dedicated access to our development team for technical support and guidance",
+      "- Total control over your infrastructure, with no limitations on customization"
+    ],
+    "faqItems": [
+      {
+        "q": "Is this a physical product?",
+        "a": "No. Digital delivery. Instant access after purchase."
+      },
+      {
+        "q": "What format is the file?",
+        "a": "PDF — readable on any device."
+      },
+      {
+        "q": "Is there a refund policy?",
+        "a": "Gumroad's standard 30-day policy applies."
+      }
+    ],
+    "thumbnailPrompt": "SOVRA Enterprise premium product thumbnail for \"AntiGravity Enterprise License\". Ultra-luxury, dark background, gold accents, institutional typography, 3D element.",
+    "callToAction": "Secure your APEX license today and unlock the full potential of our AntiGravity platform.",
+    "tier": "apex"
+  },
+  "upsellSequence": [
+    "After Free download: \"You now have the foundation. The full blueprint is $9.\"",
+    "After Pro purchase: \"Unlock commercial use and architecture docs. Upgrade to SOVRA — $40 more.\"",
+    "After SOVRA: \"License the full codebase for your business. Enterprise License available.\""
+  ],
+  "emailFollowUp": [
+    "Day 0: Deliver product + welcome to SOVRA network",
+    "Day 1: Share one actionable insight from the guide",
+    "Day 3: Case study — what the system can generate",
+    "Day 7: Upgrade offer with limited framing",
+    "Day 14: Affiliate army results + next steps"
+  ]
+}
