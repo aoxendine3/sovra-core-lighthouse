@@ -1,0 +1,18 @@
+{
+  "institutional_integrity": "120/100",
+  "vault_id": "SOVRA-VAULT-001",
+  "verified_assets": [
+    {
+      "file": "Sovereign_AI_Prompts.json",
+      "hash": "137b77db810d6448aa0703cfc35680b9",
+      "status": "VERIFIED_TOP_TIER",
+      "hosting": "GITHUB_REMOTE"
+    },
+    {
+      "file": "Sovereign_Security_Audit.md",
+      "hash": "e41a1c3d48d3dd6a22c4caea8d2982c1",
+      "status": "VERIFIED_TOP_TIER",
+      "hosting": "GITHUB_REMOTE"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+stages:
+  - validate
+  - train
+  - deploy
+
+variables:
+  # GitLab LFS Configuration
+  GIT_LFS_SKIP_SMUDGE: "0" # Ensure weights are pulled on the runner
+  # DeepSpeed Configuration
+  DEEPSPEED_HOSTFILE: "/etc/deepspeed/hostfile"
+  # Model Target
+  MODEL_ID: "deepseek-ai/DeepSeek-V3-Base"
+
+validate_architecture:
+  stage: validate
+  image: python:3.10
+  tags:
+    - cpu
+  script:
+    - echo "Validating Sovereign AI Core Dependencies..."
+    - pip install -r ai-core/requirements.txt
+    - python -m py_compile ai-core/train.py
+    - echo "Architecture Validated."
+
+forge_sovereign_weights:
+  stage: train
+  image: pytorch/pytorch:2.2.0-cuda12.1-cudnn8-devel
+  tags:
+    - gpu
+    - h100
+    - exascale
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+      changes:
+        - "sovereign_data/**/*.json"
+        - "ai-core/train.py"
+  before_script:
+    - echo "Initializing Distributed GPU Swarm..."
+    - apt-get update && apt-get install -y git git-lfs ninja-build
+    - git lfs pull
+    - pip install -r ai-core/requirements.txt
+  script:
+    - echo "Executing DeepSpeed Distributed Forging..."
+    # Launch DeepSpeed across all available GPUs on the runner
+    - deepspeed --num_gpus=8 ai-core/train.py
+  artifacts:
+    paths:
+      - sovereign_weights/
+    expire_in: 30 days
+  timeout: 3d # 365B training takes massive time even on 8x H100s
+
+deploy_to_inference_vault:
+  stage: deploy
+  needs: [forge_sovereign_weights]
+  tags:
+    - cpu
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+  script:
+    - echo "Committing newly forged Sovereign weights to Git LFS Vault..."
+    - git config --global user.email "aurvant-ci@APEX.local"
+    - git config --global user.name "Aurvant Sovereign CI"
+    - git add sovereign_weights/
+    - git commit -m "chore(ai): Auto-forged updated 365B Sovereign Weights [skip ci]"
+    - git push origin HEAD:main

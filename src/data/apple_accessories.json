@@ -1,0 +1,47 @@
+[
+  {
+    "id": "S-ACC-001",
+    "name": "SOVRA Sentry Case (iPhone 15/16 Pro)",
+    "description": "High-fidelity liquid silicone with micro-fiber interior and MagSafe 2.0 integration. The 0.01% protective standard.",
+    "price": 29.99,
+    "category": "Cases",
+    "image": "/assets/products/sentry_case.png",
+    "profit_margin": "84%"
+  },
+  {
+    "id": "S-ACC-002",
+    "name": "SOVRA Pulse 3-in-1 Foldable Charger",
+    "description": "Institutional-grade wireless charging for iPhone, Apple Watch, and AirPods. Rapid amber induction technology.",
+    "price": 59.99,
+    "category": "Charging",
+    "image": "/assets/products/pulse_charger.png",
+    "profit_margin": "72%"
+  },
+  {
+    "id": "S-ACC-003",
+    "name": "SOVRA Braided Solo Loop (Watch Ultra)",
+    "description": "Premium braided recycled yarn with sweat and water resistance for elite performance metrics.",
+    "price": 19.99,
+    "category": "Watch Bands",
+    "image": "/assets/products/braided_loop.png",
+    "profit_margin": "92%"
+  },
+  {
+    "id": "S-ACC-004",
+    "name": "SOVRA Leather Shield Wallet (MagSafe)",
+    "description": "Hand-crafted vegan leather with built-in shielded magnets for secure asset storage.",
+    "price": 34.99,
+    "category": "Accessories",
+    "image": "/assets/products/shield_wallet.png",
+    "profit_margin": "65%"
+  },
+  {
+    "id": "S-ACC-005",
+    "name": "SOVRA Privacy Screen Sentry (9H Glass)",
+    "description": "0.33mm ultra-thin 9H hardness glass with specialized privacy filter for absolute ingress security.",
+    "price": 14.99,
+    "category": "Protection",
+    "image": "/assets/products/privacy_sentry.png",
+    "profit_margin": "100%"
+  }
+]

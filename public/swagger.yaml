@@ -1,0 +1,77 @@
+openapi: 3.0.3
+info:
+  title: APEX Sovereign LLC | Affiliate Operations API
+  description: High-fidelity institutional command and control for global affiliate operations, inclusive of Stripe settlements and CJ Affiliate synchronization.
+  version: 2026.11_APEX
+servers:
+  - url: http://localhost:3001
+    description: Institutional Command Node (Local)
+paths:
+  /api/auth/login:
+    post:
+      summary: Institutional Authentication
+      description: Verifies sovereign credentials and issues a JWT authorization tranche.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                password:
+                  type: string
+      responses:
+        '200':
+          description: Access authorized.
+        '401':
+          description: Auth failure.
+
+  /api/v1/earnings:
+    get:
+      summary: Fetch Sovereign Earnings
+      description: Retrieves the physical affiliate ledger for the authorized sovereign.
+      security:
+        - BearerAuth: []
+      responses:
+        '200':
+          description: Ledger retrieved successfully.
+
+  /api/v1/payout:
+    post:
+      summary: Initiate Institutional Payout
+      description: Triggers a grounded Stripe payout pulse following KYC/AML verification.
+      security:
+        - BearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                amount:
+                  type: number
+                bankAccountToken:
+                  type: string
+      responses:
+        '200':
+          description: Settlement initiated.
+
+  /api/v1/sync-cj:
+    post:
+      summary: Synchronize CJ Affiliate Pulse
+      description: Physically syncs approved earnings from the CJ Affiliate API into the sovereign ledger.
+      security:
+        - BearerAuth: []
+      responses:
+        '200':
+          description: Pulse synchronized.
+
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

@@ -1,0 +1,6644 @@
+[
+  {
+    "id": "SOVRA-ROOT-B2B",
+    "type": "CORE_NODE",
+    "name": "SOVRA B2B Execution Node",
+    "acquiredPrice": 0,
+    "currentValuation": 150000,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-01T00:00:00Z"
+  },
+  {
+    "id": "ASSET-1775628209257",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-08T06:03:29.257Z"
+  },
+  {
+    "id": "ASSET-1775628767377",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-08T06:12:47.377Z"
+  },
+  {
+    "id": "ASSET-1775629455782",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-08T06:24:15.782Z"
+  },
+  {
+    "id": "ASSET-1775641788113",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-08T09:49:48.113Z"
+  },
+  {
+    "id": "ASSET-1776040065513",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:27:45.513Z"
+  },
+  {
+    "id": "ASSET-1776040114881",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:28:34.881Z"
+  },
+  {
+    "id": "ASSET-1776040164241",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:29:24.241Z"
+  },
+  {
+    "id": "ASSET-1776040213050",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:30:13.050Z"
+  },
+  {
+    "id": "ASSET-1776040327906",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:07.906Z"
+  },
+  {
+    "id": "ASSET-1776040330532",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:10.532Z"
+  },
+  {
+    "id": "ASSET-1776040333708",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:13.708Z"
+  },
+  {
+    "id": "ASSET-1776040338086",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:18.086Z"
+  },
+  {
+    "id": "ASSET-1776040340172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:20.172Z"
+  },
+  {
+    "id": "ASSET-1776040342921",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:22.921Z"
+  },
+  {
+    "id": "ASSET-1776040345957",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:25.957Z"
+  },
+  {
+    "id": "ASSET-1776040348841",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:28.841Z"
+  },
+  {
+    "id": "ASSET-1776040352227",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:32.227Z"
+  },
+  {
+    "id": "ASSET-1776040354913",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:34.913Z"
+  },
+  {
+    "id": "ASSET-1776040358010",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:38.010Z"
+  },
+  {
+    "id": "ASSET-1776040360967",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:40.967Z"
+  },
+  {
+    "id": "ASSET-1776040363986",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:43.986Z"
+  },
+  {
+    "id": "ASSET-1776040367398",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:47.398Z"
+  },
+  {
+    "id": "ASSET-1776040370464",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:50.464Z"
+  },
+  {
+    "id": "ASSET-1776040373257",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:53.257Z"
+  },
+  {
+    "id": "ASSET-1776040376246",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:56.246Z"
+  },
+  {
+    "id": "ASSET-1776040379225",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:32:59.225Z"
+  },
+  {
+    "id": "ASSET-1776040382265",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:02.265Z"
+  },
+  {
+    "id": "ASSET-1776040385225",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:05.225Z"
+  },
+  {
+    "id": "ASSET-1776040388233",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:08.233Z"
+  },
+  {
+    "id": "ASSET-1776040391240",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:11.240Z"
+  },
+  {
+    "id": "ASSET-1776040395667",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:15.667Z"
+  },
+  {
+    "id": "ASSET-1776040397674",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:17.674Z"
+  },
+  {
+    "id": "ASSET-1776040400613",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:20.613Z"
+  },
+  {
+    "id": "ASSET-1776040403621",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:23.621Z"
+  },
+  {
+    "id": "ASSET-1776040406632",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:26.632Z"
+  },
+  {
+    "id": "ASSET-1776040409802",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:29.802Z"
+  },
+  {
+    "id": "ASSET-1776040412667",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:32.667Z"
+  },
+  {
+    "id": "ASSET-1776040415674",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:35.674Z"
+  },
+  {
+    "id": "ASSET-1776040418747",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:38.747Z"
+  },
+  {
+    "id": "ASSET-1776040421781",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:41.781Z"
+  },
+  {
+    "id": "ASSET-1776040424698",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:44.698Z"
+  },
+  {
+    "id": "ASSET-1776040427884",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:47.884Z"
+  },
+  {
+    "id": "ASSET-1776040430808",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:50.808Z"
+  },
+  {
+    "id": "ASSET-1776040434240",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:54.240Z"
+  },
+  {
+    "id": "ASSET-1776040436824",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:56.824Z"
+  },
+  {
+    "id": "ASSET-1776040439819",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:33:59.819Z"
+  },
+  {
+    "id": "ASSET-1776040442815",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:02.815Z"
+  },
+  {
+    "id": "ASSET-1776040445891",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:05.891Z"
+  },
+  {
+    "id": "ASSET-1776040448837",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:08.837Z"
+  },
+  {
+    "id": "ASSET-1776040451890",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:11.890Z"
+  },
+  {
+    "id": "ASSET-1776040454829",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:14.829Z"
+  },
+  {
+    "id": "ASSET-1776040457915",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:17.915Z"
+  },
+  {
+    "id": "ASSET-1776040460850",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:20.850Z"
+  },
+  {
+    "id": "ASSET-1776040463792",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:23.792Z"
+  },
+  {
+    "id": "ASSET-1776040470492",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:30.493Z"
+  },
+  {
+    "id": "ASSET-1776040471716",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:31.717Z"
+  },
+  {
+    "id": "ASSET-1776040474670",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:34.670Z"
+  },
+  {
+    "id": "ASSET-1776040477657",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:37.657Z"
+  },
+  {
+    "id": "ASSET-1776040480846",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:40.846Z"
+  },
+  {
+    "id": "ASSET-1776040483657",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:43.657Z"
+  },
+  {
+    "id": "ASSET-1776040486651",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:46.651Z"
+  },
+  {
+    "id": "ASSET-1776040489650",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:49.650Z"
+  },
+  {
+    "id": "ASSET-1776040492658",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:52.658Z"
+  },
+  {
+    "id": "ASSET-1776040495654",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:55.654Z"
+  },
+  {
+    "id": "ASSET-1776040498663",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:34:58.663Z"
+  },
+  {
+    "id": "ASSET-1776040501654",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:01.654Z"
+  },
+  {
+    "id": "ASSET-1776040504656",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:04.656Z"
+  },
+  {
+    "id": "ASSET-1776040507660",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:07.660Z"
+  },
+  {
+    "id": "ASSET-1776040510664",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:10.664Z"
+  },
+  {
+    "id": "ASSET-1776040513685",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:13.685Z"
+  },
+  {
+    "id": "ASSET-1776040516664",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:16.664Z"
+  },
+  {
+    "id": "ASSET-1776040519662",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:19.662Z"
+  },
+  {
+    "id": "ASSET-1776040522682",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:22.682Z"
+  },
+  {
+    "id": "ASSET-1776040526191",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:26.191Z"
+  },
+  {
+    "id": "ASSET-1776040528792",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:28.792Z"
+  },
+  {
+    "id": "ASSET-1776040531789",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:31.789Z"
+  },
+  {
+    "id": "ASSET-1776040534793",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:34.793Z"
+  },
+  {
+    "id": "ASSET-1776040537780",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:37.780Z"
+  },
+  {
+    "id": "ASSET-1776040540782",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:40.782Z"
+  },
+  {
+    "id": "ASSET-1776040543789",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:43.789Z"
+  },
+  {
+    "id": "ASSET-1776040546824",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:46.824Z"
+  },
+  {
+    "id": "ASSET-1776040550923",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:50.923Z"
+  },
+  {
+    "id": "ASSET-1776040553323",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:53.323Z"
+  },
+  {
+    "id": "ASSET-1776040556351",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:56.351Z"
+  },
+  {
+    "id": "ASSET-1776040559342",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:35:59.342Z"
+  },
+  {
+    "id": "ASSET-1776040562318",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:02.318Z"
+  },
+  {
+    "id": "ASSET-1776040565351",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:05.351Z"
+  },
+  {
+    "id": "ASSET-1776040568384",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:08.384Z"
+  },
+  {
+    "id": "ASSET-1776040571346",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:11.346Z"
+  },
+  {
+    "id": "ASSET-1776040574344",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:14.344Z"
+  },
+  {
+    "id": "ASSET-1776040577431",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:17.431Z"
+  },
+  {
+    "id": "ASSET-1776040580338",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:20.338Z"
+  },
+  {
+    "id": "ASSET-1776040583332",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:23.332Z"
+  },
+  {
+    "id": "ASSET-1776040586350",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:26.350Z"
+  },
+  {
+    "id": "ASSET-1776040589354",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:29.354Z"
+  },
+  {
+    "id": "ASSET-1776040592340",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:32.340Z"
+  },
+  {
+    "id": "ASSET-1776040595334",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:35.334Z"
+  },
+  {
+    "id": "ASSET-1776040598349",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:38.349Z"
+  },
+  {
+    "id": "ASSET-1776040601339",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:41.339Z"
+  },
+  {
+    "id": "ASSET-1776040604339",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:44.339Z"
+  },
+  {
+    "id": "ASSET-1776040607344",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:47.344Z"
+  },
+  {
+    "id": "ASSET-1776040610348",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:50.348Z"
+  },
+  {
+    "id": "ASSET-1776040613369",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:53.369Z"
+  },
+  {
+    "id": "ASSET-1776040616334",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:56.334Z"
+  },
+  {
+    "id": "ASSET-1776040619347",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:36:59.347Z"
+  },
+  {
+    "id": "ASSET-1776040622349",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:02.349Z"
+  },
+  {
+    "id": "ASSET-1776040625346",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:05.346Z"
+  },
+  {
+    "id": "ASSET-1776040628836",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:08.836Z"
+  },
+  {
+    "id": "ASSET-1776040630841",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:10.841Z"
+  },
+  {
+    "id": "ASSET-1776040634030",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:14.030Z"
+  },
+  {
+    "id": "ASSET-1776040636839",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:16.839Z"
+  },
+  {
+    "id": "ASSET-1776040639901",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:19.901Z"
+  },
+  {
+    "id": "ASSET-1776040642854",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:22.854Z"
+  },
+  {
+    "id": "ASSET-1776040645366",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:25.366Z"
+  },
+  {
+    "id": "ASSET-1776040648844",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:28.844Z"
+  },
+  {
+    "id": "ASSET-1776040651343",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:31.343Z"
+  },
+  {
+    "id": "ASSET-1776040654341",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:34.341Z"
+  },
+  {
+    "id": "ASSET-1776040657347",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:37.347Z"
+  },
+  {
+    "id": "ASSET-1776040660343",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:40.343Z"
+  },
+  {
+    "id": "ASSET-1776040663334",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:43.334Z"
+  },
+  {
+    "id": "ASSET-1776040666344",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:46.344Z"
+  },
+  {
+    "id": "ASSET-1776040669343",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:49.343Z"
+  },
+  {
+    "id": "ASSET-1776040672339",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:52.339Z"
+  },
+  {
+    "id": "ASSET-1776040675350",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:55.350Z"
+  },
+  {
+    "id": "ASSET-1776040678343",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:37:58.343Z"
+  },
+  {
+    "id": "ASSET-1776040681342",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:01.342Z"
+  },
+  {
+    "id": "ASSET-1776040684342",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:04.342Z"
+  },
+  {
+    "id": "ASSET-1776040687365",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:07.365Z"
+  },
+  {
+    "id": "ASSET-1776040690411",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:10.411Z"
+  },
+  {
+    "id": "ASSET-1776040693415",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:13.415Z"
+  },
+  {
+    "id": "ASSET-1776040696421",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:16.421Z"
+  },
+  {
+    "id": "ASSET-1776040698871",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:18.871Z"
+  },
+  {
+    "id": "ASSET-1776040701870",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:21.870Z"
+  },
+  {
+    "id": "ASSET-1776040704940",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:24.940Z"
+  },
+  {
+    "id": "ASSET-1776040707890",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:27.890Z"
+  },
+  {
+    "id": "ASSET-1776040710887",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:30.887Z"
+  },
+  {
+    "id": "ASSET-1776040713886",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:33.886Z"
+  },
+  {
+    "id": "ASSET-1776040718262",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:38.262Z"
+  },
+  {
+    "id": "ASSET-1776040721609",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:41.609Z"
+  },
+  {
+    "id": "ASSET-1776040725071",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:45.071Z"
+  },
+  {
+    "id": "ASSET-1776040727116",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:47.116Z"
+  },
+  {
+    "id": "ASSET-1776040730038",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:50.038Z"
+  },
+  {
+    "id": "ASSET-1776040733046",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:53.046Z"
+  },
+  {
+    "id": "ASSET-1776040736045",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:56.045Z"
+  },
+  {
+    "id": "ASSET-1776040739645",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:38:59.645Z"
+  },
+  {
+    "id": "ASSET-1776040742110",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:02.110Z"
+  },
+  {
+    "id": "ASSET-1776040745290",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:05.290Z"
+  },
+  {
+    "id": "ASSET-1776040748154",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:08.154Z"
+  },
+  {
+    "id": "ASSET-1776040751131",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:11.131Z"
+  },
+  {
+    "id": "ASSET-1776040754257",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:14.257Z"
+  },
+  {
+    "id": "ASSET-1776040757107",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:17.107Z"
+  },
+  {
+    "id": "ASSET-1776040760099",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:20.099Z"
+  },
+  {
+    "id": "ASSET-1776040763113",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:23.113Z"
+  },
+  {
+    "id": "ASSET-1776040766119",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:26.119Z"
+  },
+  {
+    "id": "ASSET-1776040769118",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:29.118Z"
+  },
+  {
+    "id": "ASSET-1776040772122",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:32.122Z"
+  },
+  {
+    "id": "ASSET-1776040774127",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:34.127Z"
+  },
+  {
+    "id": "ASSET-1776040777137",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:37.137Z"
+  },
+  {
+    "id": "ASSET-1776040780134",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:40.134Z"
+  },
+  {
+    "id": "ASSET-1776040783136",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:43.136Z"
+  },
+  {
+    "id": "ASSET-1776040786130",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:46.130Z"
+  },
+  {
+    "id": "ASSET-1776040789137",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:49.137Z"
+  },
+  {
+    "id": "ASSET-1776040792139",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:52.139Z"
+  },
+  {
+    "id": "ASSET-1776040795156",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:55.156Z"
+  },
+  {
+    "id": "ASSET-1776040798149",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:39:58.149Z"
+  },
+  {
+    "id": "ASSET-1776040801151",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:01.151Z"
+  },
+  {
+    "id": "ASSET-1776040804132",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:04.132Z"
+  },
+  {
+    "id": "ASSET-1776040807150",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:07.150Z"
+  },
+  {
+    "id": "ASSET-1776040810150",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:10.150Z"
+  },
+  {
+    "id": "ASSET-1776040813169",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:13.169Z"
+  },
+  {
+    "id": "ASSET-1776040816142",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:16.142Z"
+  },
+  {
+    "id": "ASSET-1776040819123",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:19.123Z"
+  },
+  {
+    "id": "ASSET-1776040822146",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:22.146Z"
+  },
+  {
+    "id": "ASSET-1776040825149",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:25.149Z"
+  },
+  {
+    "id": "ASSET-1776040828151",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:28.151Z"
+  },
+  {
+    "id": "ASSET-1776040830651",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:30.651Z"
+  },
+  {
+    "id": "ASSET-1776040833649",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:33.649Z"
+  },
+  {
+    "id": "ASSET-1776040836637",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:36.637Z"
+  },
+  {
+    "id": "ASSET-1776040839628",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:39.628Z"
+  },
+  {
+    "id": "ASSET-1776040842653",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:42.653Z"
+  },
+  {
+    "id": "ASSET-1776040845635",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:45.635Z"
+  },
+  {
+    "id": "ASSET-1776040848703",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:48.703Z"
+  },
+  {
+    "id": "ASSET-1776040852161",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:52.161Z"
+  },
+  {
+    "id": "ASSET-1776040854637",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:54.637Z"
+  },
+  {
+    "id": "ASSET-1776040857164",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:40:57.164Z"
+  },
+  {
+    "id": "ASSET-1776040860166",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:00.166Z"
+  },
+  {
+    "id": "ASSET-1776040863156",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:03.156Z"
+  },
+  {
+    "id": "ASSET-1776040866160",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:06.160Z"
+  },
+  {
+    "id": "ASSET-1776040869154",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:09.154Z"
+  },
+  {
+    "id": "ASSET-1776040872171",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:12.171Z"
+  },
+  {
+    "id": "ASSET-1776040875165",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:15.165Z"
+  },
+  {
+    "id": "ASSET-1776040878164",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:18.164Z"
+  },
+  {
+    "id": "ASSET-1776040881201",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:21.201Z"
+  },
+  {
+    "id": "ASSET-1776040884176",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:24.176Z"
+  },
+  {
+    "id": "ASSET-1776040887177",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:27.177Z"
+  },
+  {
+    "id": "ASSET-1776040890173",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:30.173Z"
+  },
+  {
+    "id": "ASSET-1776040893173",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:33.173Z"
+  },
+  {
+    "id": "ASSET-1776040896175",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:36.175Z"
+  },
+  {
+    "id": "ASSET-1776040899183",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:39.183Z"
+  },
+  {
+    "id": "ASSET-1776040902172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:42.172Z"
+  },
+  {
+    "id": "ASSET-1776040905157",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:45.157Z"
+  },
+  {
+    "id": "ASSET-1776040908265",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:48.265Z"
+  },
+  {
+    "id": "ASSET-1776040911275",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:51.275Z"
+  },
+  {
+    "id": "ASSET-1776040914271",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:54.271Z"
+  },
+  {
+    "id": "ASSET-1776040917256",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:41:57.256Z"
+  },
+  {
+    "id": "ASSET-1776040920273",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:00.273Z"
+  },
+  {
+    "id": "ASSET-1776040923263",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:03.263Z"
+  },
+  {
+    "id": "ASSET-1776040926301",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:06.301Z"
+  },
+  {
+    "id": "ASSET-1776040929266",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:09.266Z"
+  },
+  {
+    "id": "ASSET-1776040932277",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:12.277Z"
+  },
+  {
+    "id": "ASSET-1776040935292",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:15.292Z"
+  },
+  {
+    "id": "ASSET-1776040938330",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:18.330Z"
+  },
+  {
+    "id": "ASSET-1776040941287",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:21.287Z"
+  },
+  {
+    "id": "ASSET-1776040944296",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:24.296Z"
+  },
+  {
+    "id": "ASSET-1776040947267",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:27.267Z"
+  },
+  {
+    "id": "ASSET-1776040950260",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:30.260Z"
+  },
+  {
+    "id": "ASSET-1776040953276",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:33.276Z"
+  },
+  {
+    "id": "ASSET-1776040956264",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:36.264Z"
+  },
+  {
+    "id": "ASSET-1776040959273",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:39.273Z"
+  },
+  {
+    "id": "ASSET-1776040962265",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:42.265Z"
+  },
+  {
+    "id": "ASSET-1776040965270",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:45.270Z"
+  },
+  {
+    "id": "ASSET-1776040968302",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:48.302Z"
+  },
+  {
+    "id": "ASSET-1776040971298",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:51.298Z"
+  },
+  {
+    "id": "ASSET-1776040974297",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:54.297Z"
+  },
+  {
+    "id": "ASSET-1776040977280",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:42:57.280Z"
+  },
+  {
+    "id": "ASSET-1776040980284",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:00.284Z"
+  },
+  {
+    "id": "ASSET-1776040983282",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:03.282Z"
+  },
+  {
+    "id": "ASSET-1776040986275",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:06.275Z"
+  },
+  {
+    "id": "ASSET-1776040989303",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:09.303Z"
+  },
+  {
+    "id": "ASSET-1776040992296",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:12.296Z"
+  },
+  {
+    "id": "ASSET-1776040995278",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:15.278Z"
+  },
+  {
+    "id": "ASSET-1776040998289",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:18.289Z"
+  },
+  {
+    "id": "ASSET-1776041001282",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:21.282Z"
+  },
+  {
+    "id": "ASSET-1776041004290",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:24.290Z"
+  },
+  {
+    "id": "ASSET-1776041007295",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:27.295Z"
+  },
+  {
+    "id": "ASSET-1776041010365",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:30.365Z"
+  },
+  {
+    "id": "ASSET-1776041013426",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:33.426Z"
+  },
+  {
+    "id": "ASSET-1776041016470",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:36.470Z"
+  },
+  {
+    "id": "ASSET-1776041019968",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:39.968Z"
+  },
+  {
+    "id": "ASSET-1776041022529",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:42.529Z"
+  },
+  {
+    "id": "ASSET-1776041025461",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:45.461Z"
+  },
+  {
+    "id": "ASSET-1776041028107",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:48.107Z"
+  },
+  {
+    "id": "ASSET-1776041031027",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:51.027Z"
+  },
+  {
+    "id": "ASSET-1776041033513",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:53.513Z"
+  },
+  {
+    "id": "ASSET-1776041036520",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:56.520Z"
+  },
+  {
+    "id": "ASSET-1776041039555",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:43:59.555Z"
+  },
+  {
+    "id": "ASSET-1776041042515",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:02.515Z"
+  },
+  {
+    "id": "ASSET-1776041045992",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:05.992Z"
+  },
+  {
+    "id": "ASSET-1776041048463",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:08.463Z"
+  },
+  {
+    "id": "ASSET-1776041051557",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:11.557Z"
+  },
+  {
+    "id": "ASSET-1776041054661",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:14.661Z"
+  },
+  {
+    "id": "ASSET-1776041057571",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:17.571Z"
+  },
+  {
+    "id": "ASSET-1776041060566",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:20.566Z"
+  },
+  {
+    "id": "ASSET-1776041063580",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:23.580Z"
+  },
+  {
+    "id": "ASSET-1776041066613",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:26.613Z"
+  },
+  {
+    "id": "ASSET-1776041069583",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:29.583Z"
+  },
+  {
+    "id": "ASSET-1776041072604",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:32.604Z"
+  },
+  {
+    "id": "ASSET-1776041075624",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:35.624Z"
+  },
+  {
+    "id": "ASSET-1776041078599",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:38.599Z"
+  },
+  {
+    "id": "ASSET-1776041081608",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:41.608Z"
+  },
+  {
+    "id": "ASSET-1776041085041",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:45.041Z"
+  },
+  {
+    "id": "ASSET-1776041087587",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:47.587Z"
+  },
+  {
+    "id": "ASSET-1776041090679",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:50.679Z"
+  },
+  {
+    "id": "ASSET-1776041093654",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:53.654Z"
+  },
+  {
+    "id": "ASSET-1776041096645",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:56.645Z"
+  },
+  {
+    "id": "ASSET-1776041099733",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:44:59.733Z"
+  },
+  {
+    "id": "ASSET-1776041102647",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:02.647Z"
+  },
+  {
+    "id": "ASSET-1776041105706",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:05.706Z"
+  },
+  {
+    "id": "ASSET-1776041108724",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:08.724Z"
+  },
+  {
+    "id": "ASSET-1776041111781",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:11.781Z"
+  },
+  {
+    "id": "ASSET-1776041114720",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:14.720Z"
+  },
+  {
+    "id": "ASSET-1776041117725",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:17.725Z"
+  },
+  {
+    "id": "ASSET-1776041120745",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:20.745Z"
+  },
+  {
+    "id": "ASSET-1776041123746",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:23.746Z"
+  },
+  {
+    "id": "ASSET-1776041126770",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:26.770Z"
+  },
+  {
+    "id": "ASSET-1776041129840",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:29.840Z"
+  },
+  {
+    "id": "ASSET-1776041132791",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:32.791Z"
+  },
+  {
+    "id": "ASSET-1776041136598",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:36.598Z"
+  },
+  {
+    "id": "ASSET-1776041138974",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:38.974Z"
+  },
+  {
+    "id": "ASSET-1776041142073",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:42.073Z"
+  },
+  {
+    "id": "ASSET-1776041144967",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:44.967Z"
+  },
+  {
+    "id": "ASSET-1776041148048",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:48.048Z"
+  },
+  {
+    "id": "ASSET-1776041150964",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:50.964Z"
+  },
+  {
+    "id": "ASSET-1776041154050",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:54.050Z"
+  },
+  {
+    "id": "ASSET-1776041157032",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:57.032Z"
+  },
+  {
+    "id": "ASSET-1776041159990",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:45:59.990Z"
+  },
+  {
+    "id": "ASSET-1776041163024",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:03.024Z"
+  },
+  {
+    "id": "ASSET-1776041165998",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:05.998Z"
+  },
+  {
+    "id": "ASSET-1776041169039",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:09.039Z"
+  },
+  {
+    "id": "ASSET-1776041172106",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:12.106Z"
+  },
+  {
+    "id": "ASSET-1776041175038",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:15.038Z"
+  },
+  {
+    "id": "ASSET-1776041178006",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:18.006Z"
+  },
+  {
+    "id": "ASSET-1776041181026",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:21.026Z"
+  },
+  {
+    "id": "ASSET-1776041184081",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:24.081Z"
+  },
+  {
+    "id": "ASSET-1776041187046",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:27.046Z"
+  },
+  {
+    "id": "ASSET-1776041190081",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:30.081Z"
+  },
+  {
+    "id": "ASSET-1776041193047",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:33.047Z"
+  },
+  {
+    "id": "ASSET-1776041196054",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:36.054Z"
+  },
+  {
+    "id": "ASSET-1776041199070",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:39.070Z"
+  },
+  {
+    "id": "ASSET-1776041202052",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:42.052Z"
+  },
+  {
+    "id": "ASSET-1776041205092",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:45.092Z"
+  },
+  {
+    "id": "ASSET-1776041208056",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:48.056Z"
+  },
+  {
+    "id": "ASSET-1776041211091",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:51.091Z"
+  },
+  {
+    "id": "ASSET-1776041214222",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:54.222Z"
+  },
+  {
+    "id": "ASSET-1776041217059",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:46:57.059Z"
+  },
+  {
+    "id": "ASSET-1776041220077",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:00.077Z"
+  },
+  {
+    "id": "ASSET-1776041223081",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:03.081Z"
+  },
+  {
+    "id": "ASSET-1776041226056",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:06.056Z"
+  },
+  {
+    "id": "ASSET-1776041229076",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:09.076Z"
+  },
+  {
+    "id": "ASSET-1776041232081",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:12.081Z"
+  },
+  {
+    "id": "ASSET-1776041235089",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:15.089Z"
+  },
+  {
+    "id": "ASSET-1776041238101",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:18.101Z"
+  },
+  {
+    "id": "ASSET-1776041241092",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:21.092Z"
+  },
+  {
+    "id": "ASSET-1776041244085",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:24.085Z"
+  },
+  {
+    "id": "ASSET-1776041247101",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:27.101Z"
+  },
+  {
+    "id": "ASSET-1776041250098",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:30.098Z"
+  },
+  {
+    "id": "ASSET-1776041253112",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:33.112Z"
+  },
+  {
+    "id": "ASSET-1776041256097",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:36.097Z"
+  },
+  {
+    "id": "ASSET-1776041259095",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:39.095Z"
+  },
+  {
+    "id": "ASSET-1776041262093",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:42.093Z"
+  },
+  {
+    "id": "ASSET-1776041265077",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:45.077Z"
+  },
+  {
+    "id": "ASSET-1776041268107",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:48.107Z"
+  },
+  {
+    "id": "ASSET-1776041271120",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:51.120Z"
+  },
+  {
+    "id": "ASSET-1776041274096",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:54.096Z"
+  },
+  {
+    "id": "ASSET-1776041277119",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:47:57.119Z"
+  },
+  {
+    "id": "ASSET-1776041280095",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:00.095Z"
+  },
+  {
+    "id": "ASSET-1776041283113",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:03.113Z"
+  },
+  {
+    "id": "ASSET-1776041286112",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:06.112Z"
+  },
+  {
+    "id": "ASSET-1776041289100",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:09.100Z"
+  },
+  {
+    "id": "ASSET-1776041292129",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:12.129Z"
+  },
+  {
+    "id": "ASSET-1776041295124",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:15.124Z"
+  },
+  {
+    "id": "ASSET-1776041298126",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:18.126Z"
+  },
+  {
+    "id": "ASSET-1776041301141",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:21.141Z"
+  },
+  {
+    "id": "ASSET-1776041304146",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:24.146Z"
+  },
+  {
+    "id": "ASSET-1776041307134",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:27.134Z"
+  },
+  {
+    "id": "ASSET-1776041310141",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:30.141Z"
+  },
+  {
+    "id": "ASSET-1776041313145",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:33.145Z"
+  },
+  {
+    "id": "ASSET-1776041316143",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:36.143Z"
+  },
+  {
+    "id": "ASSET-1776041319143",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:39.143Z"
+  },
+  {
+    "id": "ASSET-1776041322137",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:42.137Z"
+  },
+  {
+    "id": "ASSET-1776041325158",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:45.158Z"
+  },
+  {
+    "id": "ASSET-1776041328160",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:48.160Z"
+  },
+  {
+    "id": "ASSET-1776041331162",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:51.162Z"
+  },
+  {
+    "id": "ASSET-1776041334133",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:54.133Z"
+  },
+  {
+    "id": "ASSET-1776041337157",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:48:57.157Z"
+  },
+  {
+    "id": "ASSET-1776041340140",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:00.140Z"
+  },
+  {
+    "id": "ASSET-1776041343165",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:03.165Z"
+  },
+  {
+    "id": "ASSET-1776041346170",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:06.170Z"
+  },
+  {
+    "id": "ASSET-1776041349155",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:09.155Z"
+  },
+  {
+    "id": "ASSET-1776041352172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:12.172Z"
+  },
+  {
+    "id": "ASSET-1776041355166",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:15.166Z"
+  },
+  {
+    "id": "ASSET-1776041358167",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:18.167Z"
+  },
+  {
+    "id": "ASSET-1776041361178",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:21.178Z"
+  },
+  {
+    "id": "ASSET-1776041364172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:24.172Z"
+  },
+  {
+    "id": "ASSET-1776041367172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:27.172Z"
+  },
+  {
+    "id": "ASSET-1776041370181",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:30.181Z"
+  },
+  {
+    "id": "ASSET-1776041373169",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:33.169Z"
+  },
+  {
+    "id": "ASSET-1776041376192",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:36.192Z"
+  },
+  {
+    "id": "ASSET-1776041379172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:39.172Z"
+  },
+  {
+    "id": "ASSET-1776041382200",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:42.200Z"
+  },
+  {
+    "id": "ASSET-1776041385176",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:45.176Z"
+  },
+  {
+    "id": "ASSET-1776041388191",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:48.191Z"
+  },
+  {
+    "id": "ASSET-1776041391205",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:51.205Z"
+  },
+  {
+    "id": "ASSET-1776041394179",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:54.179Z"
+  },
+  {
+    "id": "ASSET-1776041397205",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:49:57.205Z"
+  },
+  {
+    "id": "ASSET-1776041400191",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:00.191Z"
+  },
+  {
+    "id": "ASSET-1776041403198",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:03.198Z"
+  },
+  {
+    "id": "ASSET-1776041406181",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:06.181Z"
+  },
+  {
+    "id": "ASSET-1776041409187",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:09.187Z"
+  },
+  {
+    "id": "ASSET-1776041411694",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:11.694Z"
+  },
+  {
+    "id": "ASSET-1776041414709",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:14.709Z"
+  },
+  {
+    "id": "ASSET-1776041417694",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:17.694Z"
+  },
+  {
+    "id": "ASSET-1776041420692",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:20.692Z"
+  },
+  {
+    "id": "ASSET-1776041423718",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:23.718Z"
+  },
+  {
+    "id": "ASSET-1776041426726",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:26.726Z"
+  },
+  {
+    "id": "ASSET-1776041429715",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:29.715Z"
+  },
+  {
+    "id": "ASSET-1776041432893",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:32.893Z"
+  },
+  {
+    "id": "ASSET-1776041435815",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:35.815Z"
+  },
+  {
+    "id": "ASSET-1776041438800",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:38.800Z"
+  },
+  {
+    "id": "ASSET-1776041442306",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:42.306Z"
+  },
+  {
+    "id": "ASSET-1776041444801",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:44.801Z"
+  },
+  {
+    "id": "ASSET-1776041447802",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:47.802Z"
+  },
+  {
+    "id": "ASSET-1776041450843",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:50.843Z"
+  },
+  {
+    "id": "ASSET-1776041453810",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:53.810Z"
+  },
+  {
+    "id": "ASSET-1776041456809",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:50:56.809Z"
+  },
+  {
+    "id": "ASSET-1776041460524",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:00.524Z"
+  },
+  {
+    "id": "ASSET-1776041463050",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:03.050Z"
+  },
+  {
+    "id": "ASSET-1776041466150",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:06.150Z"
+  },
+  {
+    "id": "ASSET-1776041469010",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:09.010Z"
+  },
+  {
+    "id": "ASSET-1776041472255",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:12.255Z"
+  },
+  {
+    "id": "ASSET-1776041475181",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:15.181Z"
+  },
+  {
+    "id": "ASSET-1776041478137",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:18.137Z"
+  },
+  {
+    "id": "ASSET-1776041481126",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:21.126Z"
+  },
+  {
+    "id": "ASSET-1776041484152",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:24.152Z"
+  },
+  {
+    "id": "ASSET-1776041487185",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:27.185Z"
+  },
+  {
+    "id": "ASSET-1776041490172",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:30.172Z"
+  },
+  {
+    "id": "ASSET-1776041493222",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:33.222Z"
+  },
+  {
+    "id": "ASSET-1776041496273",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:36.273Z"
+  },
+  {
+    "id": "ASSET-1776041499193",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:39.193Z"
+  },
+  {
+    "id": "ASSET-1776041502373",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:42.373Z"
+  },
+  {
+    "id": "ASSET-1776041505198",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:45.198Z"
+  },
+  {
+    "id": "ASSET-1776041508210",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:48.210Z"
+  },
+  {
+    "id": "ASSET-1776041511318",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:51.318Z"
+  },
+  {
+    "id": "ASSET-1776041514214",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:54.214Z"
+  },
+  {
+    "id": "ASSET-1776041517249",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:51:57.249Z"
+  },
+  {
+    "id": "ASSET-1776041520232",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:00.232Z"
+  },
+  {
+    "id": "ASSET-1776041523263",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:03.263Z"
+  },
+  {
+    "id": "ASSET-1776041526399",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:06.399Z"
+  },
+  {
+    "id": "ASSET-1776041529279",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:09.279Z"
+  },
+  {
+    "id": "ASSET-1776041532253",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:12.253Z"
+  },
+  {
+    "id": "ASSET-1776041535266",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:15.266Z"
+  },
+  {
+    "id": "ASSET-1776041538427",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:18.427Z"
+  },
+  {
+    "id": "ASSET-1776041541580",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:21.580Z"
+  },
+  {
+    "id": "ASSET-1776041544448",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:24.448Z"
+  },
+  {
+    "id": "ASSET-1776041548218",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:28.218Z"
+  },
+  {
+    "id": "ASSET-1776041550642",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:30.642Z"
+  },
+  {
+    "id": "ASSET-1776041554554",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:34.555Z"
+  },
+  {
+    "id": "ASSET-1776041557217",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:37.217Z"
+  },
+  {
+    "id": "ASSET-1776041560329",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:40.329Z"
+  },
+  {
+    "id": "ASSET-1776041563066",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:43.066Z"
+  },
+  {
+    "id": "ASSET-1776041566121",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:46.121Z"
+  },
+  {
+    "id": "ASSET-1776041569704",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:49.704Z"
+  },
+  {
+    "id": "ASSET-1776041572420",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:52.420Z"
+  },
+  {
+    "id": "ASSET-1776041575747",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:55.747Z"
+  },
+  {
+    "id": "ASSET-1776041578462",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:52:58.462Z"
+  },
+  {
+    "id": "ASSET-1776041582163",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:02.163Z"
+  },
+  {
+    "id": "ASSET-1776041584687",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:04.687Z"
+  },
+  {
+    "id": "ASSET-1776041588912",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:08.912Z"
+  },
+  {
+    "id": "ASSET-1776041591214",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:11.214Z"
+  },
+  {
+    "id": "ASSET-1776041594121",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:14.121Z"
+  },
+  {
+    "id": "ASSET-1776041597537",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:17.537Z"
+  },
+  {
+    "id": "ASSET-1776041600970",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:20.970Z"
+  },
+  {
+    "id": "ASSET-1776041603980",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:23.980Z"
+  },
+  {
+    "id": "ASSET-1776041606767",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:26.767Z"
+  },
+  {
+    "id": "ASSET-1776041609620",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:29.620Z"
+  },
+  {
+    "id": "ASSET-1776041612879",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:32.879Z"
+  },
+  {
+    "id": "ASSET-1776041616120",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:36.120Z"
+  },
+  {
+    "id": "ASSET-1776041618875",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:38.875Z"
+  },
+  {
+    "id": "ASSET-1776041621815",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:41.815Z"
+  },
+  {
+    "id": "ASSET-1776041624725",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:44.725Z"
+  },
+  {
+    "id": "ASSET-1776041628314",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:48.314Z"
+  },
+  {
+    "id": "ASSET-1776041631161",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:51.161Z"
+  },
+  {
+    "id": "ASSET-1776041634320",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:54.320Z"
+  },
+  {
+    "id": "ASSET-1776041636954",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:53:56.954Z"
+  },
+  {
+    "id": "ASSET-1776041640247",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:00.247Z"
+  },
+  {
+    "id": "ASSET-1776041643403",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:03.403Z"
+  },
+  {
+    "id": "ASSET-1776041646126",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:06.126Z"
+  },
+  {
+    "id": "ASSET-1776041649244",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:09.244Z"
+  },
+  {
+    "id": "ASSET-1776041652630",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:12.630Z"
+  },
+  {
+    "id": "ASSET-1776041655465",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:15.465Z"
+  },
+  {
+    "id": "ASSET-1776041658713",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:18.713Z"
+  },
+  {
+    "id": "ASSET-1776041661674",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:21.674Z"
+  },
+  {
+    "id": "ASSET-1776041664780",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:24.780Z"
+  },
+  {
+    "id": "ASSET-1776041667459",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:27.459Z"
+  },
+  {
+    "id": "ASSET-1776041670483",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:30.483Z"
+  },
+  {
+    "id": "ASSET-1776041673570",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:33.570Z"
+  },
+  {
+    "id": "ASSET-1776041676674",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:36.674Z"
+  },
+  {
+    "id": "ASSET-1776041680314",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:40.314Z"
+  },
+  {
+    "id": "ASSET-1776041682664",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:42.664Z"
+  },
+  {
+    "id": "ASSET-1776041685842",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:45.842Z"
+  },
+  {
+    "id": "ASSET-1776041688765",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:48.765Z"
+  },
+  {
+    "id": "ASSET-1776041692177",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:52.177Z"
+  },
+  {
+    "id": "ASSET-1776041696113",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:56.113Z"
+  },
+  {
+    "id": "ASSET-1776041698190",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:54:58.190Z"
+  },
+  {
+    "id": "ASSET-1776041701029",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:01.029Z"
+  },
+  {
+    "id": "ASSET-1776041704007",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:04.007Z"
+  },
+  {
+    "id": "ASSET-1776041707447",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:07.447Z"
+  },
+  {
+    "id": "ASSET-1776041710345",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:10.345Z"
+  },
+  {
+    "id": "ASSET-1776041713295",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:13.295Z"
+  },
+  {
+    "id": "ASSET-1776041716374",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:16.374Z"
+  },
+  {
+    "id": "ASSET-1776041719289",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:19.289Z"
+  },
+  {
+    "id": "ASSET-1776041722377",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:22.377Z"
+  },
+  {
+    "id": "ASSET-1776041725393",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:25.393Z"
+  },
+  {
+    "id": "ASSET-1776041728369",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:28.369Z"
+  },
+  {
+    "id": "ASSET-1776041731373",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:31.373Z"
+  },
+  {
+    "id": "ASSET-1776041734386",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:34.386Z"
+  },
+  {
+    "id": "ASSET-1776041737393",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:37.393Z"
+  },
+  {
+    "id": "ASSET-1776041739900",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:39.900Z"
+  },
+  {
+    "id": "ASSET-1776041742969",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:42.969Z"
+  },
+  {
+    "id": "ASSET-1776041745936",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:45.936Z"
+  },
+  {
+    "id": "ASSET-1776041748946",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:48.946Z"
+  },
+  {
+    "id": "ASSET-1776041751968",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:51.968Z"
+  },
+  {
+    "id": "ASSET-1776041754964",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:54.964Z"
+  },
+  {
+    "id": "ASSET-1776041757961",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:55:57.961Z"
+  },
+  {
+    "id": "ASSET-1776041760937",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:00.937Z"
+  },
+  {
+    "id": "ASSET-1776041763951",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:03.951Z"
+  },
+  {
+    "id": "ASSET-1776041766945",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:06.945Z"
+  },
+  {
+    "id": "ASSET-1776041769980",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:09.980Z"
+  },
+  {
+    "id": "ASSET-1776041773038",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:13.038Z"
+  },
+  {
+    "id": "ASSET-1776041776449",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:16.449Z"
+  },
+  {
+    "id": "ASSET-1776041778972",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:18.972Z"
+  },
+  {
+    "id": "ASSET-1776041781985",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:21.985Z"
+  },
+  {
+    "id": "ASSET-1776041784969",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:24.969Z"
+  },
+  {
+    "id": "ASSET-1776041787967",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:27.967Z"
+  },
+  {
+    "id": "ASSET-1776041790968",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:30.968Z"
+  },
+  {
+    "id": "ASSET-1776041793975",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:33.975Z"
+  },
+  {
+    "id": "ASSET-1776041797007",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:37.007Z"
+  },
+  {
+    "id": "ASSET-1776041799984",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:39.984Z"
+  },
+  {
+    "id": "ASSET-1776041802973",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:42.973Z"
+  },
+  {
+    "id": "ASSET-1776041805974",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:45.974Z"
+  },
+  {
+    "id": "ASSET-1776041809007",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:49.007Z"
+  },
+  {
+    "id": "ASSET-1776041812058",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:52.058Z"
+  },
+  {
+    "id": "ASSET-1776041815016",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:55.016Z"
+  },
+  {
+    "id": "ASSET-1776041818012",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:56:58.012Z"
+  },
+  {
+    "id": "ASSET-1776041821034",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:01.034Z"
+  },
+  {
+    "id": "ASSET-1776041824027",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:04.027Z"
+  },
+  {
+    "id": "ASSET-1776041827006",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:07.006Z"
+  },
+  {
+    "id": "ASSET-1776041830058",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:10.058Z"
+  },
+  {
+    "id": "ASSET-1776041833283",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:13.283Z"
+  },
+  {
+    "id": "ASSET-1776041836298",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:16.298Z"
+  },
+  {
+    "id": "ASSET-1776041839360",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:19.360Z"
+  },
+  {
+    "id": "ASSET-1776041842289",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:22.289Z"
+  },
+  {
+    "id": "ASSET-1776041845322",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:25.322Z"
+  },
+  {
+    "id": "ASSET-1776041848337",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:28.337Z"
+  },
+  {
+    "id": "ASSET-1776041851329",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:31.329Z"
+  },
+  {
+    "id": "ASSET-1776041854553",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:34.553Z"
+  },
+  {
+    "id": "ASSET-1776041856902",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:36.902Z"
+  },
+  {
+    "id": "ASSET-1776041859854",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:39.854Z"
+  },
+  {
+    "id": "ASSET-1776041862843",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:42.843Z"
+  },
+  {
+    "id": "ASSET-1776041866349",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:46.349Z"
+  },
+  {
+    "id": "ASSET-1776041868855",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:48.855Z"
+  },
+  {
+    "id": "ASSET-1776041871860",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:51.860Z"
+  },
+  {
+    "id": "ASSET-1776041874367",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:54.367Z"
+  },
+  {
+    "id": "ASSET-1776041877382",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:57:57.382Z"
+  },
+  {
+    "id": "ASSET-1776041880364",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:00.364Z"
+  },
+  {
+    "id": "ASSET-1776041883388",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:03.388Z"
+  },
+  {
+    "id": "ASSET-1776041886354",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:06.354Z"
+  },
+  {
+    "id": "ASSET-1776041889383",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:09.383Z"
+  },
+  {
+    "id": "ASSET-1776041892960",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:12.960Z"
+  },
+  {
+    "id": "ASSET-1776041895393",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:15.393Z"
+  },
+  {
+    "id": "ASSET-1776041897895",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:17.895Z"
+  },
+  {
+    "id": "ASSET-1776041900882",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:20.882Z"
+  },
+  {
+    "id": "ASSET-1776041903876",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:23.876Z"
+  },
+  {
+    "id": "ASSET-1776041906916",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:26.916Z"
+  },
+  {
+    "id": "ASSET-1776041909905",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:29.905Z"
+  },
+  {
+    "id": "ASSET-1776041912884",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:32.884Z"
+  },
+  {
+    "id": "ASSET-1776041915401",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:35.401Z"
+  },
+  {
+    "id": "ASSET-1776041918948",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:38.948Z"
+  },
+  {
+    "id": "ASSET-1776041921907",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:41.907Z"
+  },
+  {
+    "id": "ASSET-1776041924931",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:44.931Z"
+  },
+  {
+    "id": "ASSET-1776041927412",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:47.412Z"
+  },
+  {
+    "id": "ASSET-1776041930398",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:50.398Z"
+  },
+  {
+    "id": "ASSET-1776041933586",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:53.586Z"
+  },
+  {
+    "id": "ASSET-1776041936489",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:56.489Z"
+  },
+  {
+    "id": "ASSET-1776041939507",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:58:59.507Z"
+  },
+  {
+    "id": "ASSET-1776041942504",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:02.504Z"
+  },
+  {
+    "id": "ASSET-1776041945551",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:05.551Z"
+  },
+  {
+    "id": "ASSET-1776041948503",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:08.503Z"
+  },
+  {
+    "id": "ASSET-1776041951021",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:11.021Z"
+  },
+  {
+    "id": "ASSET-1776041954013",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:14.013Z"
+  },
+  {
+    "id": "ASSET-1776041957000",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:17.000Z"
+  },
+  {
+    "id": "ASSET-1776041960016",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:20.016Z"
+  },
+  {
+    "id": "ASSET-1776041963018",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:23.018Z"
+  },
+  {
+    "id": "ASSET-1776041966014",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:26.014Z"
+  },
+  {
+    "id": "ASSET-1776041969016",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:29.016Z"
+  },
+  {
+    "id": "ASSET-1776041972022",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:32.022Z"
+  },
+  {
+    "id": "ASSET-1776041975017",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:35.017Z"
+  },
+  {
+    "id": "ASSET-1776041978157",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:38.157Z"
+  },
+  {
+    "id": "ASSET-1776041981034",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:41.034Z"
+  },
+  {
+    "id": "ASSET-1776041984024",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:44.024Z"
+  },
+  {
+    "id": "ASSET-1776041987063",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:47.063Z"
+  },
+  {
+    "id": "ASSET-1776041989658",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:49.658Z"
+  },
+  {
+    "id": "ASSET-1776041992585",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:52.585Z"
+  },
+  {
+    "id": "ASSET-1776041996146",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:56.146Z"
+  },
+  {
+    "id": "ASSET-1776041998942",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T00:59:58.942Z"
+  },
+  {
+    "id": "ASSET-1776042001661",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:01.661Z"
+  },
+  {
+    "id": "ASSET-1776042004996",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:04.996Z"
+  },
+  {
+    "id": "ASSET-1776042007644",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:07.644Z"
+  },
+  {
+    "id": "ASSET-1776042010256",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:10.256Z"
+  },
+  {
+    "id": "ASSET-1776042013163",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:13.163Z"
+  },
+  {
+    "id": "ASSET-1776042016238",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:16.238Z"
+  },
+  {
+    "id": "ASSET-1776042019519",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:19.519Z"
+  },
+  {
+    "id": "ASSET-1776042022825",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:22.825Z"
+  },
+  {
+    "id": "ASSET-1776042025305",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:25.305Z"
+  },
+  {
+    "id": "ASSET-1776042028949",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:28.949Z"
+  },
+  {
+    "id": "ASSET-1776042031585",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:31.585Z"
+  },
+  {
+    "id": "ASSET-1776042034504",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:34.504Z"
+  },
+  {
+    "id": "ASSET-1776042037741",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:37.741Z"
+  },
+  {
+    "id": "ASSET-1776042040521",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:40.521Z"
+  },
+  {
+    "id": "ASSET-1776042043501",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:43.501Z"
+  },
+  {
+    "id": "ASSET-1776042046511",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:46.511Z"
+  },
+  {
+    "id": "ASSET-1776042049506",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:49.506Z"
+  },
+  {
+    "id": "ASSET-1776042052507",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:52.507Z"
+  },
+  {
+    "id": "ASSET-1776042055511",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:55.511Z"
+  },
+  {
+    "id": "ASSET-1776042058501",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:00:58.501Z"
+  },
+  {
+    "id": "ASSET-1776042061521",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:01.521Z"
+  },
+  {
+    "id": "ASSET-1776042064510",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:04.510Z"
+  },
+  {
+    "id": "ASSET-1776042067525",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:07.525Z"
+  },
+  {
+    "id": "ASSET-1776042070499",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:10.499Z"
+  },
+  {
+    "id": "ASSET-1776042073525",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:13.525Z"
+  },
+  {
+    "id": "ASSET-1776042076539",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:16.539Z"
+  },
+  {
+    "id": "ASSET-1776042079516",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:19.516Z"
+  },
+  {
+    "id": "ASSET-1776042082534",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:22.534Z"
+  },
+  {
+    "id": "ASSET-1776042085542",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:25.542Z"
+  },
+  {
+    "id": "ASSET-1776042088514",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:28.514Z"
+  },
+  {
+    "id": "ASSET-1776042091525",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:31.525Z"
+  },
+  {
+    "id": "ASSET-1776042094524",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:34.524Z"
+  },
+  {
+    "id": "ASSET-1776042097538",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:37.538Z"
+  },
+  {
+    "id": "ASSET-1776042100520",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:40.520Z"
+  },
+  {
+    "id": "ASSET-1776042103520",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:43.520Z"
+  },
+  {
+    "id": "ASSET-1776042106546",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:46.546Z"
+  },
+  {
+    "id": "ASSET-1776042109529",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:49.529Z"
+  },
+  {
+    "id": "ASSET-1776042112558",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:52.558Z"
+  },
+  {
+    "id": "ASSET-1776042115529",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:55.529Z"
+  },
+  {
+    "id": "ASSET-1776042118541",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:01:58.541Z"
+  },
+  {
+    "id": "ASSET-1776042121555",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:01.555Z"
+  },
+  {
+    "id": "ASSET-1776042124544",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:04.544Z"
+  },
+  {
+    "id": "ASSET-1776042127535",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:07.535Z"
+  },
+  {
+    "id": "ASSET-1776042130549",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:10.549Z"
+  },
+  {
+    "id": "ASSET-1776042133554",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:13.554Z"
+  },
+  {
+    "id": "ASSET-1776042136059",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:16.059Z"
+  },
+  {
+    "id": "ASSET-1776042139073",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:19.074Z"
+  },
+  {
+    "id": "ASSET-1776042142054",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:22.054Z"
+  },
+  {
+    "id": "ASSET-1776042145063",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:25.063Z"
+  },
+  {
+    "id": "ASSET-1776042148068",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:28.068Z"
+  },
+  {
+    "id": "ASSET-1776042151058",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:31.058Z"
+  },
+  {
+    "id": "ASSET-1776042154090",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:34.090Z"
+  },
+  {
+    "id": "ASSET-1776042157060",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:37.060Z"
+  },
+  {
+    "id": "ASSET-1776042160050",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:40.050Z"
+  },
+  {
+    "id": "ASSET-1776042163062",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:43.062Z"
+  },
+  {
+    "id": "ASSET-1776042166060",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:46.060Z"
+  },
+  {
+    "id": "ASSET-1776042169059",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:49.059Z"
+  },
+  {
+    "id": "ASSET-1776042172096",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:52.096Z"
+  },
+  {
+    "id": "ASSET-1776042175069",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:55.069Z"
+  },
+  {
+    "id": "ASSET-1776042178064",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:02:58.064Z"
+  },
+  {
+    "id": "ASSET-1776042181065",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:01.065Z"
+  },
+  {
+    "id": "ASSET-1776042184076",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:04.076Z"
+  },
+  {
+    "id": "ASSET-1776042187084",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:07.084Z"
+  },
+  {
+    "id": "ASSET-1776042190074",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:10.074Z"
+  },
+  {
+    "id": "ASSET-1776042193083",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:13.083Z"
+  },
+  {
+    "id": "ASSET-1776042196094",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:16.094Z"
+  },
+  {
+    "id": "ASSET-1776042199078",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:19.078Z"
+  },
+  {
+    "id": "ASSET-1776042202100",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:22.100Z"
+  },
+  {
+    "id": "ASSET-1776042205084",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:25.084Z"
+  },
+  {
+    "id": "ASSET-1776042208099",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:28.099Z"
+  },
+  {
+    "id": "ASSET-1776042211107",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:31.107Z"
+  },
+  {
+    "id": "ASSET-1776042214100",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:34.100Z"
+  },
+  {
+    "id": "ASSET-1776042217100",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:37.100Z"
+  },
+  {
+    "id": "ASSET-1776042220090",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:40.090Z"
+  },
+  {
+    "id": "ASSET-1776042223108",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:43.108Z"
+  },
+  {
+    "id": "ASSET-1776042226107",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:46.107Z"
+  },
+  {
+    "id": "ASSET-1776042229107",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:49.107Z"
+  },
+  {
+    "id": "ASSET-1776042232104",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:52.104Z"
+  },
+  {
+    "id": "ASSET-1776042235111",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:55.111Z"
+  },
+  {
+    "id": "ASSET-1776042238105",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:03:58.105Z"
+  },
+  {
+    "id": "ASSET-1776042241104",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:01.104Z"
+  },
+  {
+    "id": "ASSET-1776042244104",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:04.104Z"
+  },
+  {
+    "id": "ASSET-1776042247109",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:07.109Z"
+  },
+  {
+    "id": "ASSET-1776042250137",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:10.137Z"
+  },
+  {
+    "id": "ASSET-1776042253114",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:13.114Z"
+  },
+  {
+    "id": "ASSET-1776042256126",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:16.126Z"
+  },
+  {
+    "id": "ASSET-1776042259123",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:19.123Z"
+  },
+  {
+    "id": "ASSET-1776042262130",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:22.130Z"
+  },
+  {
+    "id": "ASSET-1776042265115",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:25.115Z"
+  },
+  {
+    "id": "ASSET-1776042268139",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:28.139Z"
+  },
+  {
+    "id": "ASSET-1776042271123",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:31.123Z"
+  },
+  {
+    "id": "ASSET-1776042274121",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:34.121Z"
+  },
+  {
+    "id": "ASSET-1776042277124",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:37.124Z"
+  },
+  {
+    "id": "ASSET-1776042280157",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:40.157Z"
+  },
+  {
+    "id": "ASSET-1776042283184",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:43.184Z"
+  },
+  {
+    "id": "ASSET-1776042286140",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:46.140Z"
+  },
+  {
+    "id": "ASSET-1776042289139",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:49.139Z"
+  },
+  {
+    "id": "ASSET-1776042292144",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:52.144Z"
+  },
+  {
+    "id": "ASSET-1776042295173",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:55.173Z"
+  },
+  {
+    "id": "ASSET-1776042298131",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:04:58.131Z"
+  },
+  {
+    "id": "ASSET-1776042301139",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:01.139Z"
+  },
+  {
+    "id": "ASSET-1776042304144",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:04.144Z"
+  },
+  {
+    "id": "ASSET-1776042307130",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:07.130Z"
+  },
+  {
+    "id": "ASSET-1776042310140",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:10.140Z"
+  },
+  {
+    "id": "ASSET-1776042313133",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:13.133Z"
+  },
+  {
+    "id": "ASSET-1776042316151",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:16.151Z"
+  },
+  {
+    "id": "ASSET-1776042319155",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:19.155Z"
+  },
+  {
+    "id": "ASSET-1776042322127",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:22.127Z"
+  },
+  {
+    "id": "ASSET-1776042324624",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:24.624Z"
+  },
+  {
+    "id": "ASSET-1776042328153",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:28.153Z"
+  },
+  {
+    "id": "ASSET-1776042330652",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:30.652Z"
+  },
+  {
+    "id": "ASSET-1776042333635",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:33.635Z"
+  },
+  {
+    "id": "ASSET-1776042336642",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:36.642Z"
+  },
+  {
+    "id": "ASSET-1776042339632",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:39.632Z"
+  },
+  {
+    "id": "ASSET-1776042342648",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:42.648Z"
+  },
+  {
+    "id": "ASSET-1776042345635",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:45.635Z"
+  },
+  {
+    "id": "ASSET-1776042348647",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:48.647Z"
+  },
+  {
+    "id": "ASSET-1776042351651",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:51.651Z"
+  },
+  {
+    "id": "ASSET-1776042354637",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:54.637Z"
+  },
+  {
+    "id": "ASSET-1776042357674",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:05:57.674Z"
+  },
+  {
+    "id": "ASSET-1776042360665",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:00.665Z"
+  },
+  {
+    "id": "ASSET-1776042363667",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:03.667Z"
+  },
+  {
+    "id": "ASSET-1776042366657",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:06.657Z"
+  },
+  {
+    "id": "ASSET-1776042369692",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:09.692Z"
+  },
+  {
+    "id": "ASSET-1776042372684",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:12.684Z"
+  },
+  {
+    "id": "ASSET-1776042375665",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:15.665Z"
+  },
+  {
+    "id": "ASSET-1776042378693",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:18.693Z"
+  },
+  {
+    "id": "ASSET-1776042381687",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:21.687Z"
+  },
+  {
+    "id": "ASSET-1776042384684",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:24.684Z"
+  },
+  {
+    "id": "ASSET-1776042387683",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:27.683Z"
+  },
+  {
+    "id": "ASSET-1776042391028",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:31.028Z"
+  },
+  {
+    "id": "ASSET-1776042393983",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:33.983Z"
+  },
+  {
+    "id": "ASSET-1776042397078",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:37.078Z"
+  },
+  {
+    "id": "ASSET-1776042400033",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:40.033Z"
+  },
+  {
+    "id": "ASSET-1776042403045",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:43.045Z"
+  },
+  {
+    "id": "ASSET-1776042406071",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:46.071Z"
+  },
+  {
+    "id": "ASSET-1776042409084",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:49.084Z"
+  },
+  {
+    "id": "ASSET-1776042412215",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:52.215Z"
+  },
+  {
+    "id": "ASSET-1776042415124",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:55.124Z"
+  },
+  {
+    "id": "ASSET-1776042418223",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:06:58.223Z"
+  },
+  {
+    "id": "ASSET-1776042421113",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:01.113Z"
+  },
+  {
+    "id": "ASSET-1776042424110",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:04.110Z"
+  },
+  {
+    "id": "ASSET-1776042427115",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:07.115Z"
+  },
+  {
+    "id": "ASSET-1776042430132",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:10.132Z"
+  },
+  {
+    "id": "ASSET-1776042433120",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:13.120Z"
+  },
+  {
+    "id": "ASSET-1776042436131",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:16.131Z"
+  },
+  {
+    "id": "ASSET-1776042439135",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:19.135Z"
+  },
+  {
+    "id": "ASSET-1776042442133",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:22.133Z"
+  },
+  {
+    "id": "ASSET-1776042445137",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:25.137Z"
+  },
+  {
+    "id": "ASSET-1776042448133",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:28.133Z"
+  },
+  {
+    "id": "ASSET-1776042451159",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:31.159Z"
+  },
+  {
+    "id": "ASSET-1776042454158",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:34.158Z"
+  },
+  {
+    "id": "ASSET-1776042457141",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:37.141Z"
+  },
+  {
+    "id": "ASSET-1776042460158",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:40.158Z"
+  },
+  {
+    "id": "ASSET-1776042463138",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:43.138Z"
+  },
+  {
+    "id": "ASSET-1776042466170",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:46.170Z"
+  },
+  {
+    "id": "ASSET-1776042469171",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:49.171Z"
+  },
+  {
+    "id": "ASSET-1776042472179",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:52.179Z"
+  },
+  {
+    "id": "ASSET-1776042475161",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:55.161Z"
+  },
+  {
+    "id": "ASSET-1776042478188",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:07:58.188Z"
+  },
+  {
+    "id": "ASSET-1776042481197",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:01.198Z"
+  },
+  {
+    "id": "ASSET-1776042484201",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:04.201Z"
+  },
+  {
+    "id": "ASSET-1776042487209",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:07.209Z"
+  },
+  {
+    "id": "ASSET-1776042490191",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:10.191Z"
+  },
+  {
+    "id": "ASSET-1776042493188",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:13.188Z"
+  },
+  {
+    "id": "ASSET-1776042496211",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:16.211Z"
+  },
+  {
+    "id": "ASSET-1776042499212",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:19.212Z"
+  },
+  {
+    "id": "ASSET-1776042502215",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:22.215Z"
+  },
+  {
+    "id": "ASSET-1776042505199",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:25.199Z"
+  },
+  {
+    "id": "ASSET-1776042508203",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:28.203Z"
+  },
+  {
+    "id": "ASSET-1776042511217",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:31.217Z"
+  },
+  {
+    "id": "ASSET-1776042514216",
+    "type": "MEDIA_LICENSE",
+    "name": "APAC Viral Media Rights (Tier 1)",
+    "acquiredPrice": 25,
+    "currentValuation": 37.5,
+    "status": "OPERATIONAL",
+    "purchasedAt": "2026-04-13T01:08:34.216Z"
+  }
+]

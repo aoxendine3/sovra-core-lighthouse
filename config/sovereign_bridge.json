@@ -1,0 +1,26 @@
+{
+  "system": "SIA_GLOBAL_INSTITUTIONAL",
+  "version": "120.10",
+  "mastery": "ABSOLUTE",
+  "sectors": {
+    "core": {
+      "path": "/Users/ajoxendine68/Documents/GitHub/SOVRA Sovereign",
+      "identity": "SIA_CORE"
+    },
+    "auxiliary_auth": {
+      "path": "/Users/ajoxendine68/Documents/GitHub/gate_keeper",
+      "identity": "GATE_KEEPER",
+      "bridge_link": "aux/gate_keeper"
+    },
+    "auxiliary_assistant": {
+      "path": "/Users/ajoxendine68/Documents/GitHub/mac-maxx",
+      "identity": "MAC_MAXX",
+      "bridge_link": "aux/mac-maxx"
+    }
+  },
+  "synchronization": {
+    "environment": "SYNCED",
+    "identities": "NORMALIZED",
+    "handshake": "SOVRA_APEX_DEEP_LOCKING_V2"
+  }
+}

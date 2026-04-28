@@ -1,0 +1,79 @@
+[
+  {
+    "id": "DEP-MNTHQNJG",
+    "timestamp": "2026-04-10T22:41:59.980Z",
+    "productName": "The Apex Group handshake just went live. Secure your institutional gateway to the Trump Halo billions. #ANTv1 #DeFiSecurity",
+    "platforms": [
+      "TikTok",
+      "Meta",
+      "LinkedIn",
+      "X"
+    ],
+    "status": "LIVE",
+    "context": {
+      "hook": "The Apex Group handshake just went live. Secure your institutional gateway to the Trump Halo billions. #ANTv1 #DeFiSecurity",
+      "platform": "X",
+      "manualTrigger": true
+    }
+  },
+  {
+    "id": "DEP-MNQYHFHW",
+    "timestamp": "2026-04-09T04:07:24.596Z",
+    "productName": "SOVRA Sovereign Protocol — Pro Edition",
+    "platforms": [
+      "TikTok",
+      "Meta",
+      "LinkedIn",
+      "X"
+    ],
+    "status": "LIVE",
+    "context": {
+      "blastId": "AB-ZLI4FAR15",
+      "product": {
+        "name": "SOVRA Sovereign Protocol — Pro Edition",
+        "tagline": "Unlock the Ultimate Authority in Cybersecurity",
+        "price": 9,
+        "description": "As a serious operator, you understand that security is not just a risk management exercise, it's a war of wits. You don't waste time on trivial threats; you focus on the ones that could bring down your entire operation. That's why you need the SOVRA Sovereign Protocol — Pro Edition.\n\nThis isn't a hobby project or a get-rich-quick scheme. This is a comprehensive, battle-tested framework for securing your most critical assets. It's not optional; it's essential.\n\nWhat you'll get with this purchase:\n\n✦ A 6-chapter guide that distills the essence of Global Army strategy into actionable steps\n✦ The Deep Lock code to secure your systems like never before\n✦ A subscription revenue model that ensures long-term financial stability and growth\n✦ Access to a private community for networking, knowledge-sharing, and support\n✦ Regular updates and new content additions to keep you ahead of the curve\n\nWe know what's holding you back:\n\n* \"This is too complex.\" Don't worry; our guide is written for serious operators like you. We'll walk you through each step.\n* \"I don't have time for this.\" Let us tell you a secret: cybersecurity is not just about reacting to threats; it's about proactively securing your business. This purchase will save you more time in the long run.\n\nDon't wait for the other guy to make his move. Take control of your security today and secure your future.\n\nCTA: Secure Your Sovereignty Now: Add to Cart",
+        "bulletPoints": [
+          "✦ Immediate digital delivery",
+          "✦ Verifiable, truth-anchored content",
+          "✦ No fluff — operational blueprints only",
+          "✦ SOVRA Sovereign License included"
+        ],
+        "faqItems": [
+          {
+            "q": "Is this a physical product?",
+            "a": "No. Digital delivery. Instant access after purchase."
+          },
+          {
+            "q": "What format is the file?",
+            "a": "PDF — readable on any device."
+          },
+          {
+            "q": "Is there a refund policy?",
+            "a": "Gumroad's standard 30-day policy applies."
+          }
+        ],
+        "thumbnailPrompt": "SOVRA Enterprise premium product thumbnail for \"SOVRA Sovereign Protocol — Pro Edition\". Clean, modern, dark mode, cyan accent, professional.",
+        "callToAction": "Secure Your Sovereignty Now: Add to Cart",
+        "tier": "pro"
+      }
+    }
+  },
+  {
+    "id": "DEP-MNPV9WB2",
+    "timestamp": "2026-04-08T09:49:48.110Z",
+    "productName": "Want to know a secret? The most exclusive Fintech opportunities are hidden in plain sight. Watch our latest vid to uncover the luxury world of Fintech_Luxury!",
+    "platforms": [
+      "TikTok",
+      "Meta",
+      "Google"
+    ],
+    "status": "LIVE",
+    "context": {
+      "hook": "Want to know a secret? The most exclusive Fintech opportunities are hidden in plain sight. Watch our latest vid to uncover the luxury world of Fintech_Luxury!",
+      "platform": "YouTube Shorts",
+      "batch": "HYPER_SCALE_10X"
+    }
+  }
+]

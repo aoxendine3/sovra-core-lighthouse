@@ -1,0 +1,48 @@
+{
+  "tiers": [
+    {
+      "id": "guardian",
+      "name": "Guardian Protocol",
+      "price": 499,
+      "interval": "month",
+      "description": "Baseline Institutional Aegis Protection. Weekly security audits and primary anomaly interception.",
+      "features": [
+        "Aegis Shield Real-time Intercept",
+        "Weekly Institutional Audit Reports",
+        "Handshake Integrity Monitoring",
+        "Priority Command Ingress (24h)"
+      ],
+      "color": "#00f0ff"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel Swarm",
+      "price": 1880,
+      "interval": "month",
+      "description": "Advanced 24/7 Agent Orchestration. Adaptive shielding with autonomous threat redirection.",
+      "features": [
+        "Full Guardian Ingress",
+        "24/7 Priority Agent Orchestration",
+        "Autonomous Threat Redirection",
+        "Global Identity Integrity Scans",
+        "Sovereign Council Channel Access"
+      ],
+      "color": "#a855f7"
+    },
+    {
+      "id": "sovereign",
+      "name": "SOVRA Sovereignty",
+      "price": 9999,
+      "interval": "month",
+      "description": "Full Institutional Node deployment. Personal Command Node for zero-leak global infrastructure.",
+      "features": [
+        "Full Sentinel Ingress",
+        "Dedicated M4 Alpha Command Node",
+        "Bespoke Zero-Point Handshake",
+        "Direct Sovereign Bridge with MAXX",
+        "High-Theta Asset Architecture"
+      ],
+      "color": "#ff4d4d"
+    }
+  ]
+}

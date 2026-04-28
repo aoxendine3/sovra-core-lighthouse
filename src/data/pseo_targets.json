@@ -1,0 +1,8 @@
+[
+  { "competitor": "Belkin", "target": "SOVRA Titan MagSafe Hub", "slug": "belkin-vs-apex-titan-magsafe", "referral": "/store" },
+  { "competitor": "Satechi", "target": "SOVRA Aluminum Stand", "slug": "satechi-vs-apex-aluminum-stand", "referral": "/store" },
+  { "competitor": "Anker", "target": "SOVRA Quantum Power", "slug": "anker-vs-apex-quantum-power", "referral": "/store" },
+  { "competitor": "Nomad", "target": "SOVRA Leather Tranche", "slug": "nomad-vs-apex-leather-tranche", "referral": "/store" },
+  { "competitor": "Apple", "target": "SOVRA Prime Accessories", "slug": "apple-vs-apex-prime-accessories", "referral": "/store" },
+  { "competitor": "Twelve South", "target": "SOVRA Desktop Sync", "slug": "twelve-south-vs-apex-desktop-sync", "referral": "/store" }
+]

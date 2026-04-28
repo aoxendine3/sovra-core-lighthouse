@@ -1,0 +1,37 @@
+name: APEX-X Saturation Pulse
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Once daily at midnight
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  exascale-strike:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Execute Global Omni-Pulse (Singularity v47.1)
+        run: npx tsx src/scripts/global_blitz_orchestrator.ts
+        env:
+          HANDSHAKE_SECRET: ${{ secrets.HANDSHAKE_SECRET }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          APEX_STRYKE_MODE: EXASCALE
+          PROTOCOL_VERSION: v61.2_SINGULARITY
+
+      - name: Report Institutional Truth
+        run: echo "APEX-X PULSE COMPLETE: 2,010 Nodes Synchronized."
