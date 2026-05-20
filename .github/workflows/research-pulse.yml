@@ -7,23 +7,29 @@ on:
 
 jobs:
   research:
-    runs-on: macos-latest # Aligning with user OS preference
+    runs-on: ubuntu-latest # Swapped from macos-latest for cost-efficiency
     steps:
       - uses: actions/checkout@v4
+      
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'pnpm'
           
       - name: Install Dependencies
-        run: npm install
+        run: pnpm install --frozen-lockfile
         
       - name: Execute GitHub Alpha Scour
-        run: npm run scour
+        run: pnpm run scour
         
       - name: Infrastructure Hardening
-        run: npm run harden
+        run: pnpm run harden
         
       - name: Commit & Push Telemetry
         run: |

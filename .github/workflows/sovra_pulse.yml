@@ -14,14 +14,19 @@ jobs:
     - uses: actions/checkout@v4
 
     # --- THE TONY INFRASTRUCTURE (Node.js) ---
+    - name: Setup pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 10
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
-        cache: 'npm'
+        cache: 'pnpm'
 
     - name: Install Dependencies
-      run: npm install --no-audit --no-fund
+      run: pnpm install --frozen-lockfile
 
     # --- THE USER MANDATE (.NET Core) ---
     - name: Setup .NET Core SDK
@@ -33,7 +38,7 @@ jobs:
         dotnet-quality: 'ga'
 
     - name: Run Institutional Pulse
-      run: npm run tony -- --once
+      run: pnpm run tony -- --once
 
     - name: Build Next.js Dashboard
-      run: npm run build
+      run: pnpm run build
