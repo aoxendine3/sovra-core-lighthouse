@@ -47,3 +47,6 @@ next-env.d.ts
 .mtls/
 __pycache__/
 venv/
+.apex_secret
+.apex_secret*
+
