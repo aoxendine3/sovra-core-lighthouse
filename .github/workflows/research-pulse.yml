@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --local user.email "tony@SOVRA.sovereign"
           git config --local user.name "Tony (Sovereign OS)"
-          git add SOVRA_INSTITUTIONAL_REPORT.md .gemini/SOVRA Sovereign/SOVRA_APEX_sovereign.json
+          git add SOVRA_INSTITUTIONAL_REPORT.md Sovereign/SOVRA_APEX_sovereign.json
           git commit -m "🏛️ [TONY] Daily Research Pulse & Hardening Complete" || echo "No changes to commit"
           git push
