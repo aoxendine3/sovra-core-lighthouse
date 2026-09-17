@@ -8,6 +8,8 @@ on:
 jobs:
   research:
     runs-on: ubuntu-latest # Swapped from macos-latest for cost-efficiency
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       

@@ -39,4 +39,5 @@ jobs:
           PROTOCOL_VERSION: v61.2_SINGULARITY
 
       - name: Report Institutional Truth
-        run: echo "APEX-X PULSE COMPLETE: 2,010 Nodes Synchronized."
+        run: |
+          echo "APEX-X PULSE COMPLETE: 2,010 Nodes Synchronized."
