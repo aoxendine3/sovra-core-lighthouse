@@ -43,7 +43,7 @@
     "@upstash/ratelimit": "^2.0.8",
     "@upstash/redis": "^1.37.0",
     "@vercel/postgres": "^0.10.0",
-    "axios": "^1.15.0",
+    "axios": "^1.20.0",
     "better-sqlite3": "^12.9.0",
     "binance": "^3.5.4",
     "blessed": "^0.1.81",
